@@ -1,1 +1,7 @@
-pandas\nnumpy\nscikit-learn\nseaborn\nmatplotlib\nimbalanced-learn\nxgboost
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
+imbalanced-learn
+xgboost
